@@ -37,10 +37,11 @@
 
 
 ### Output:
+![WhatsApp Image 2023-12-19 at 9 06 12 PM](https://github.com/anu-varshini11/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138969827/0b8cc2bd-6ae0-4da4-ad58-8c390bcd06b1)
 
 
 ### Name: M B ANU VARSHINI
 ### Register Number: 23008712
 
 ## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+### Thus the given product is reverse engineered and prototyped using 3D Printer.
