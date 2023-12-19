@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2023-12-19 at 6 36 44 PMs](https://github.com/anu-varshini11/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138969827/8e100a01-a208-4cc5-8f4e-79ccb15bbac0)
+![WhatsApp Image 2023-12-19 at 6 35 19 PM](https://github.com/anu-varshini11/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138969827/c2b51ed8-19cd-4028-b863-e30fc447f67f)
+![WhatsApp Image 2023-12-19 at 6 35 20 PM](https://github.com/anu-varshini11/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138969827/7be8fe1f-397f-4ccc-b95f-00215fc73f07)
+
 
 ### Output:
 
 
-### Name:
-### Register Number:
+### Name: M B ANU VARSHINI
+### Register Number: 23008712
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
